@@ -1,2 +1,3 @@
 # Perspectiva-cetatenilor-asupra-cauzelor-si-solutiilor-somajului
 Scopul proiectului constă în investigarea opiniilor respondenților referitoare la cauzele, formele și impactul șomajului asupra pieței muncii.
+Sondajul a fost realizat cu ajutorul platformei Google Forms și distribuit online, prin intermediul rețelelor de socializare și al mediilor digitale. Datele colectate au fost ulterior descărcate sub forma unui fișier Excel, pentru centralizarea și prelucrarea acestora. Fiecărei variante de răspuns i-a fost atribuit un cod numeric, în vederea facilitării analizei statistice. Ulterior, datele codificate au fost importate și prelucrate cu ajutorul programului IBM SPSS.
